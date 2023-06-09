@@ -1,5 +1,6 @@
 How to clone this repository:
-git clone https://github.com/BryleG/Slime-chat-app.git
+git clone https://github.com/BryleG/Slime-Chat-App.git
+
 
 Install packages:
   npm i
